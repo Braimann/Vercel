@@ -1,0 +1,7 @@
+# robots.txt for pharmaciedegardecasablanca.com - Version Production
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://pharmaciedegardecasablanca.com/sitemap.xml
+

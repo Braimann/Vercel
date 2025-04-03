@@ -1,0 +1,468 @@
+```xml file="public/sitemap.xml"
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+&lt;!-- Pages principales -->
+<url>
+  <loc>https://pharmaciedegardecasablanca.com</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/pharmacies</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/blog</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/faq</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/a-propos</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.6</priority>
+</url>
+
+&lt;!-- Pages de quartiers -->
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/centre-ville</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/maarif</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/ain-diab</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/anfa</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/sidi-moumen</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/hay-hassani</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/derb-sultan</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/bourgogne</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/mers-sultan</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/racine</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/gauthier</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/beausejour</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+
+&lt;!-- Blogs par quartier - Centre-ville -->
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/centre-ville/blog/pharmacies-garde-centre-ville</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/centre-ville/blog/urgences-medicales-centre-ville</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/centre-ville/blog/services-pharmacies-centre-ville</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+&lt;!-- Blogs par quartier - Maârif -->
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/maarif/blog/pharmacies-garde-maarif</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/maarif/blog/urgences-medicales-maarif</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/maarif/blog/services-pharmacies-maarif</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+&lt;!-- Blogs par quartier - Ain Diab -->
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/ain-diab/blog/pharmacies-garde-ain-diab</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/ain-diab/blog/urgences-medicales-ain-diab</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/ain-diab/blog/services-pharmacies-ain-diab</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+&lt;!-- Blogs par quartier - Anfa -->
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/anfa/blog/pharmacies-garde-anfa</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/anfa/blog/urgences-medicales-anfa</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/anfa/blog/services-pharmacies-anfa</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+&lt;!-- Blogs par quartier - Sidi Moumen -->
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/sidi-moumen/blog/pharmacies-garde-sidi-moumen</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/sidi-moumen/blog/urgences-medicales-sidi-moumen</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/sidi-moumen/blog/services-pharmacies-sidi-moumen</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+&lt;!-- Blogs par quartier - Hay Hassani -->
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/hay-hassani/blog/pharmacies-garde-hay-hassani</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/hay-hassani/blog/urgences-medicales-hay-hassani</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/hay-hassani/blog/services-pharmacies-hay-hassani</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+&lt;!-- Blogs par quartier - Derb Sultan -->
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/derb-sultan/blog/pharmacies-garde-derb-sultan</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/derb-sultan/blog/urgences-medicales-derb-sultan</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/derb-sultan/blog/services-pharmacies-derb-sultan</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+&lt;!-- Blogs par quartier - Bourgogne -->
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/bourgogne/blog/pharmacies-garde-bourgogne</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/bourgogne/blog/urgences-medicales-bourgogne</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/bourgogne/blog/services-pharmacies-bourgogne</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+&lt;!-- Blogs par quartier - Mers Sultan -->
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/mers-sultan/blog/pharmacies-garde-mers-sultan</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/mers-sultan/blog/urgences-medicales-mers-sultan</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/mers-sultan/blog/services-pharmacies-mers-sultan</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+&lt;!-- Blogs par quartier - Racine -->
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/racine/blog/pharmacies-garde-racine</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/racine/blog/urgences-medicales-racine</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/racine/blog/services-pharmacies-racine</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+&lt;!-- Blogs par quartier - Gauthier -->
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/gauthier/blog/pharmacies-garde-gauthier</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/gauthier/blog/urgences-medicales-gauthier</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/gauthier/blog/services-pharmacies-gauthier</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+&lt;!-- Blogs par quartier - Beauséjour -->
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/beausejour/blog/pharmacies-garde-beausejour</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/beausejour/blog/urgences-medicales-beausejour</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/quartiers/beausejour/blog/services-pharmacies-beausejour</loc>
+  <lastmod>2023-04-15</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+&lt;!-- Articles de blog généraux -->
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/blog/fonctionnement-pharmacies-garde-casablanca</loc>
+  <lastmod>2023-04-10</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/blog/urgence-medicale-nocturne-casablanca</loc>
+  <lastmod>2023-03-25</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/blog/medicaments-essentiels-maison</loc>
+  <lastmod>2023-03-15</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/blog/services-speciaux-pharmacies-garde</loc>
+  <lastmod>2023-03-05</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/blog/preparation-consultation-medicale-urgence</loc>
+  <lastmod>2023-02-20</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/blog/numeros-urgence-casablanca</loc>
+  <lastmod>2023-02-10</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/blog/guide-complet-medicaments-sans-ordonnance</loc>
+  <lastmod>2023-03-30</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/blog/conseils-sante-ramadan-casablanca</loc>
+  <lastmod>2023-03-20</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+
+&lt;!-- Pages de pharmacies (exemples) -->
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/pharmacies/1</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/pharmacies/2</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/pharmacies/3</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/pharmacies/4</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/pharmacies/5</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/pharmacies/6</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/pharmacies/7</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/pharmacies/8</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/pharmacies/9</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pharmaciedegardecasablanca.com/pharmacies/10</loc>
+  <lastmod>2023-04-06</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+</urlset>
+
